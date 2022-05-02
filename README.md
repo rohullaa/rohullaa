@@ -1,14 +1,14 @@
-### Hi there 👋
+### Hi there and welcome to my Github account👋
 
 
 **rohullaa/rohullaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Deep Learning, natural language processing and Django programming.
 - 🌱 I’m currently learning advanced statistics sush as Bayesian inference and probabilistic graphical models (Bayesian and Markov networks). I am learning about semantic technologies, RDF graphs and descriptive logic.
+<!---
 
- <> 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
