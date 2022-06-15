@@ -1,7 +1,7 @@
 ### Hi there and welcome to my Github account👋
 
 - 🔭 I’m currently working on AI (deep learning, NLP) and frotend programming (Django, HTML, Javascript, CSS).
-- 🌱 Currently learning about Bayesian inference and probabilistic graphical models (Bayesian and Markov networks), semantic technologies; RDF graphs and descriptive logic. 
+- 🌱 Currently learning about Bayesian inference and probabilistic graphical models (Bayesian and Markov networks), semantic technologies (RDF graphs, descriptive logic, SPARQL, etc..)
 <!---
 
 - 👯 I’m looking to collaborate on ...
